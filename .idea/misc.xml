@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AppProjects/MyPagerAdapter/app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
+        <entry key="..\:/AppProjects/MyPagerAdapter/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/AppProjects/MyPagerAdapter/app/src/main/res/layout/fragment_item.xml" value="0.14" />
         <entry key="..\:/AppProjects/MyPagerAdapter/app/src/main/res/layout/item_page.xml" value="0.20677083333333332" />
       </map>
     </option>
